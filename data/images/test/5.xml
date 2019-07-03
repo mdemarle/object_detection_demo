@@ -1,7 +1,7 @@
 <annotation>
-	<folder>test</folder>
+	<folder>Nouveau dossier</folder>
 	<filename>5.jpg</filename>
-	<path>C:\Users\mdemarle\Documents\projet m\object_detection_demo\data\images\test\5.jpg</path>
+	<path>C:\Users\mdemarle\Documents\projet m\object_detection_demo\data\images\test\Nouveau dossier\5.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>389</xmin>
-			<ymin>370</ymin>
-			<xmax>535</xmax>
-			<ymax>430</ymax>
+			<xmin>159</xmin>
+			<ymin>288</ymin>
+			<xmax>234</xmax>
+			<ymax>378</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>241</xmin>
-			<ymin>484</ymin>
-			<xmax>326</xmax>
-			<ymax>555</ymax>
+			<xmin>305</xmin>
+			<ymin>100</ymin>
+			<xmax>380</xmax>
+			<ymax>185</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>50</xmin>
-			<ymin>345</ymin>
-			<xmax>153</xmax>
-			<ymax>425</ymax>
+			<xmin>422</xmin>
+			<ymin>393</ymin>
+			<xmax>500</xmax>
+			<ymax>471</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,58 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>143</xmin>
-			<ymin>209</ymin>
-			<xmax>259</xmax>
-			<ymax>292</ymax>
+			<xmin>433</xmin>
+			<ymin>331</ymin>
+			<xmax>519</xmax>
+			<ymax>399</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>champignon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>449</xmin>
+			<ymin>142</ymin>
+			<xmax>516</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>champignon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>216</xmin>
+			<ymin>354</ymin>
+			<xmax>298</xmax>
+			<ymax>435</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>champignon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>317</xmin>
+			<ymin>389</ymin>
+			<xmax>420</xmax>
+			<ymax>500</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>champignon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>365</xmin>
+			<ymin>297</ymin>
+			<xmax>442</xmax>
+			<ymax>399</ymax>
 		</bndbox>
 	</object>
 </annotation>

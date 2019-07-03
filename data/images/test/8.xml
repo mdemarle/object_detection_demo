@@ -1,7 +1,7 @@
 <annotation>
-	<folder>test</folder>
+	<folder>Nouveau dossier</folder>
 	<filename>8.jpg</filename>
-	<path>C:\Users\mdemarle\Documents\projet m\object_detection_demo\data\images\test\8.jpg</path>
+	<path>C:\Users\mdemarle\Documents\projet m\object_detection_demo\data\images\test\Nouveau dossier\8.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>356</xmin>
-			<ymin>221</ymin>
-			<xmax>431</xmax>
-			<ymax>276</ymax>
+			<xmin>284</xmin>
+			<ymin>97</ymin>
+			<xmax>354</xmax>
+			<ymax>152</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>412</xmin>
-			<ymin>378</ymin>
-			<xmax>503</xmax>
-			<ymax>418</ymax>
+			<xmin>538</xmin>
+			<ymin>132</ymin>
+			<xmax>597</xmax>
+			<ymax>187</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>426</xmin>
-			<ymin>500</ymin>
-			<xmax>516</xmax>
-			<ymax>570</ymax>
+			<xmin>489</xmin>
+			<ymin>334</ymin>
+			<xmax>543</xmax>
+			<ymax>401</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,22 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>584</xmin>
-			<ymin>468</ymin>
-			<xmax>667</xmax>
-			<ymax>546</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>champignon</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>267</xmin>
-			<ymin>204</ymin>
-			<xmax>344</xmax>
-			<ymax>253</ymax>
+			<xmin>134</xmin>
+			<ymin>325</ymin>
+			<xmax>192</xmax>
+			<ymax>387</ymax>
 		</bndbox>
 	</object>
 </annotation>

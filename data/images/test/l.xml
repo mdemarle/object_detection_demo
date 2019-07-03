@@ -1,7 +1,7 @@
 <annotation>
 	<folder>Nouveau dossier</folder>
-	<filename>42.jpg</filename>
-	<path>C:\Users\mdemarle\Documents\projet m\object_detection_demo\data\images\train\Nouveau dossier\42.jpg</path>
+	<filename>1.jpg</filename>
+	<path>C:\Users\mdemarle\Documents\projet m\object_detection_demo\data\images\test\Nouveau dossier\1.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>382</xmin>
-			<ymin>250</ymin>
-			<xmax>490</xmax>
-			<ymax>296</ymax>
+			<xmin>448</xmin>
+			<ymin>148</ymin>
+			<xmax>529</xmax>
+			<ymax>201</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>335</xmin>
-			<ymin>35</ymin>
-			<xmax>478</xmax>
-			<ymax>116</ymax>
+			<xmin>422</xmin>
+			<ymin>358</ymin>
+			<xmax>486</xmax>
+			<ymax>398</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>521</xmin>
-			<ymin>351</ymin>
-			<xmax>613</xmax>
-			<ymax>410</ymax>
+			<xmin>582</xmin>
+			<ymin>394</ymin>
+			<xmax>635</xmax>
+			<ymax>463</ymax>
 		</bndbox>
 	</object>
 </annotation>
