@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>284.jpg</filename>
+	<path>C:\Users\mdemarle\Documents\projet m\object_detection_demo\data\images\test\284.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>oeuf</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>331</xmin>
+			<ymin>302</ymin>
+			<xmax>446</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+</annotation>
