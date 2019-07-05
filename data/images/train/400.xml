@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train ch</folder>
+	<filename>400.jpg</filename>
+	<path>C:\Users\mdemarle\Documents\projet m\train ch\400.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>champignon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>67</xmin>
+			<ymin>151</ymin>
+			<xmax>252</xmax>
+			<ymax>214</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>champignon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>602</xmin>
+			<ymin>179</ymin>
+			<xmax>772</xmax>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+</annotation>

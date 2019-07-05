@@ -1,7 +1,7 @@
 <annotation>
-	<folder>train</folder>
+	<folder>train ch</folder>
 	<filename>477.jpg</filename>
-	<path>C:\Users\mdemarle\Documents\projet m\object_detection_demo\data\images\train\477.jpg</path>
+	<path>C:\Users\mdemarle\Documents\projet m\train ch\477.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,39 +12,99 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>oeuf</name>
+		<name>champignon</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>575</xmin>
-			<ymin>179</ymin>
-			<xmax>759</xmax>
-			<ymax>277</ymax>
+			<xmin>215</xmin>
+			<ymin>163</ymin>
+			<xmax>320</xmax>
+			<ymax>251</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>oeuf</name>
+		<name>champignon</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>129</xmin>
-			<ymin>394</ymin>
-			<xmax>338</xmax>
-			<ymax>494</ymax>
+			<xmin>235</xmin>
+			<ymin>336</ymin>
+			<xmax>308</xmax>
+			<ymax>403</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>oeuf</name>
+		<name>champignon</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>99</xmin>
-			<ymin>149</ymin>
-			<xmax>277</xmax>
-			<ymax>260</ymax>
+			<xmin>413</xmin>
+			<ymin>382</ymin>
+			<xmax>526</xmax>
+			<ymax>478</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>champignon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>529</xmin>
+			<ymin>197</ymin>
+			<xmax>614</xmax>
+			<ymax>294</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>champignon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>212</xmin>
+			<ymin>269</ymin>
+			<xmax>298</xmax>
+			<ymax>356</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>champignon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>363</xmin>
+			<ymin>78</ymin>
+			<xmax>462</xmax>
+			<ymax>161</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>champignon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>243</xmin>
+			<ymin>96</ymin>
+			<xmax>343</xmax>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>champignon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>302</xmin>
+			<ymin>260</ymin>
+			<xmax>382</xmax>
+			<ymax>348</ymax>
 		</bndbox>
 	</object>
 </annotation>

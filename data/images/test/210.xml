@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Nouveau dossier</folder>
+	<filename>210.jpg</filename>
+	<path>C:\Users\mdemarle\Documents\projet m\object_detection_demo\data\images\test\champignon\Nouveau dossier\210.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>champignon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>595</xmin>
+			<ymin>271</ymin>
+			<xmax>692</xmax>
+			<ymax>343</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>champignon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>243</xmin>
+			<ymin>403</ymin>
+			<xmax>348</xmax>
+			<ymax>470</ymax>
+		</bndbox>
+	</object>
+</annotation>

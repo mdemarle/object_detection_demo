@@ -1,7 +1,7 @@
 <annotation>
-	<folder>train</folder>
+	<folder>train ch</folder>
 	<filename>503.jpg</filename>
-	<path>C:\Users\mdemarle\Documents\projet m\object_detection_demo\data\images\train\503.jpg</path>
+	<path>C:\Users\mdemarle\Documents\projet m\train ch\503.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>oeuf</name>
+		<name>champignon</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>336</xmin>
-			<ymin>214</ymin>
-			<xmax>463</xmax>
-			<ymax>371</ymax>
+			<xmin>232</xmin>
+			<ymin>57</ymin>
+			<xmax>288</xmax>
+			<ymax>134</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>train</folder>
+	<folder>train ch</folder>
 	<filename>463.jpg</filename>
-	<path>C:\Users\mdemarle\Documents\projet m\object_detection_demo\data\images\train\463.jpg</path>
+	<path>C:\Users\mdemarle\Documents\projet m\train ch\463.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,51 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>oeuf</name>
+		<name>champignon</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>259</xmin>
-			<ymin>111</ymin>
-			<xmax>371</xmax>
-			<ymax>201</ymax>
+			<xmin>198</xmin>
+			<ymin>137</ymin>
+			<xmax>316</xmax>
+			<ymax>224</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>oeuf</name>
+		<name>champignon</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>493</xmin>
-			<ymin>101</ymin>
-			<xmax>611</xmax>
-			<ymax>207</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>oeuf</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>362</xmin>
-			<ymin>395</ymin>
-			<xmax>483</xmax>
-			<ymax>499</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>oeuf</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>111</xmin>
-			<ymin>263</ymin>
-			<xmax>223</xmax>
-			<ymax>366</ymax>
+			<xmin>317</xmin>
+			<ymin>163</ymin>
+			<xmax>447</xmax>
+			<ymax>256</ymax>
 		</bndbox>
 	</object>
 </annotation>

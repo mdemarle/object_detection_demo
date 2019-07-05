@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train ch</folder>
+	<filename>368.jpg</filename>
+	<path>C:\Users\mdemarle\Documents\projet m\train ch\368.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>champignon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>188</xmin>
+			<ymin>484</ymin>
+			<xmax>255</xmax>
+			<ymax>559</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>champignon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>604</xmin>
+			<ymin>172</ymin>
+			<xmax>671</xmax>
+			<ymax>239</ymax>
+		</bndbox>
+	</object>
+</annotation>

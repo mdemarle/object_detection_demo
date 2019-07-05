@@ -1,7 +1,7 @@
 <annotation>
-	<folder>test</folder>
+	<folder>Nouveau dossier</folder>
 	<filename>231.jpg</filename>
-	<path>C:\Users\mdemarle\Documents\projet m\object_detection_demo\data\images\test\231.jpg</path>
+	<path>C:\Users\mdemarle\Documents\projet m\object_detection_demo\data\images\test\champignon\Nouveau dossier\231.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,27 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>oeuf</name>
+		<name>champignon</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>400</xmin>
-			<ymin>222</ymin>
-			<xmax>574</xmax>
-			<ymax>365</ymax>
+			<xmin>550</xmin>
+			<ymin>436</ymin>
+			<xmax>686</xmax>
+			<ymax>491</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>oeuf</name>
+		<name>champignon</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>226</xmin>
-			<ymin>402</ymin>
-			<xmax>414</xmax>
-			<ymax>513</ymax>
+			<xmin>288</xmin>
+			<ymin>490</ymin>
+			<xmax>380</xmax>
+			<ymax>554</ymax>
 		</bndbox>
 	</object>
 </annotation>
