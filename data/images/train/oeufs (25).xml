@@ -1,7 +1,7 @@
 <annotation>
-	<folder>train</folder>
-	<filename>70.jpg</filename>
-	<path>C:\Users\mdemarle\Documents\projet m\object_detection_demo\data\images\train\70.jpg</path>
+	<folder>Nouveau dossier (2)</folder>
+	<filename>oeufs (25).jpg</filename>
+	<path>C:\Users\mdemarle\Documents\projet m\object_detection_demo\data\images\train\Nouveau dossier (2)\oeufs (25).jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -21,6 +21,18 @@
 			<ymin>312</ymin>
 			<xmax>562</xmax>
 			<ymax>450</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>oeuf</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>228</ymin>
+			<xmax>73</xmax>
+			<ymax>329</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>train ch</folder>
-	<filename>49.jpg</filename>
-	<path>C:\Users\mdemarle\Documents\projet m\train ch\49.jpg</path>
+	<folder>train</folder>
+	<filename>champi (35).jpg</filename>
+	<path>C:\Users\mdemarle\Documents\projet m\object_detection_demo\data\images\train\champi (35).jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -33,6 +33,42 @@
 			<ymin>85</ymin>
 			<xmax>570</xmax>
 			<ymax>149</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>champignon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>402</xmin>
+			<ymin>433</ymin>
+			<xmax>486</xmax>
+			<ymax>485</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>champignon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>524</xmin>
+			<ymin>375</ymin>
+			<xmax>600</xmax>
+			<ymax>439</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>champignon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>497</xmin>
+			<ymin>177</ymin>
+			<xmax>585</xmax>
+			<ymax>232</ymax>
 		</bndbox>
 	</object>
 </annotation>
