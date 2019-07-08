@@ -10,13 +10,13 @@ if __name__ == "__main__":
     parser.add_argument(
         "--raw-dir",
         help="Directory path to raw documents.",
-        default="C:/Users/mdemarle/Documents/projet m/object_detection_demo/data/images/test",
+        default="C:/Users/mdemarle/Documents/projet m/object_detection_demo/data/images/train",
         type=str,
     )
     parser.add_argument(
         "--save-dir",
         help="Directory path to save documents.",
-        default="C:/Users/mdemarle/Documents/projet m/object_detection_demo/data/images/testrename",
+        default="C:/Users/mdemarle/Documents/projet m/object_detection_demo/data/images/trainrename",
         type=str,
     )
     
@@ -37,5 +37,7 @@ if __name__ == "__main__":
             newname = nomfi + "." + ext
             texte = raw_dir + "/" + newname
             i.text = texte.replace("/","\\")
+            for j in root.findall('filename'):
+                j.text = newname
         nomf = os.path.join(save_dir, nomfichier)
         tree.write(nomf)
