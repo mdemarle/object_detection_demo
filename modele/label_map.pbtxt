@@ -1,0 +1,14 @@
+item {
+    id: 1
+    name: 'champignon'
+}
+
+item {
+    id: 2
+    name: 'oeuf'
+}
+
+item {
+    id: 3
+    name: 'olive'
+}

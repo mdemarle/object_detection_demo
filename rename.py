@@ -8,15 +8,15 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(    
     )
     parser.add_argument(
-        "--raw-dir",
+        "--raw_dir",
         help="Directory path to raw documents.",
-        default="C:/Users/mdemarle/Documents/projet m/object_detection_demo/data/images/train",
+        default="C:/Users/mdemarle/Documents/projet m/object_detection_demo/data/images/train/Nouveau dossier",
         type=str,
     )
     parser.add_argument(
-        "--save-dir",
+        "--save_dir",
         help="Directory path to save documents.",
-        default="C:/Users/mdemarle/Documents/projet m/object_detection_demo/data/images/trainrename",
+        default="C:/Users/mdemarle/Documents/projet m/object_detection_demo/data/images/train",
         type=str,
     )
     
@@ -35,7 +35,7 @@ if __name__ == "__main__":
             nom = n.split(".")[0]
             ext = n.split(".")[-1] 
             newname = nomfi + "." + ext
-            texte = raw_dir + "/" + newname
+            texte = save_dir + "/" + newname
             i.text = texte.replace("/","\\")
             for j in root.findall('filename'):
                 j.text = newname
